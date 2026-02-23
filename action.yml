@@ -1,6 +1,5 @@
 name: 'IBM Cloud Container Registry Action'
 description: 'Push, pull, tag, and manage images in IBM Cloud Container Registry with vulnerability scanning'
-author: 'Bob'
 
 branding:
   icon: 'cloud'
@@ -218,4 +217,3 @@ runs:
         echo "✓ Cleanup completed"
         echo "::endgroup::"
 
-# Made with Bob

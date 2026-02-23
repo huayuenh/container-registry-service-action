@@ -143,5 +143,3 @@ fi
 
 # Run the scan
 run_va_scan "$1"
-
-# Made with Bob
